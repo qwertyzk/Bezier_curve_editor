@@ -2,7 +2,7 @@
 # ---Edytor kubicznych krzywych Beziera---
 
 # Uruchamianie programu:
-# python program.py
+# python editor.py
 
 # Podstawowa instrukcja:
 # - Add curve dodaje nową krzywą
